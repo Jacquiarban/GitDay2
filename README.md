@@ -1,1 +1,1 @@
-This is for repository file.
+This is for repository.
