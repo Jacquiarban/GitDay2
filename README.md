@@ -1,1 +1,1 @@
-This is for repository.
+This is sample repository.
